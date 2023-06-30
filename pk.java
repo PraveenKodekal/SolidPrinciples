@@ -5,6 +5,8 @@ public class gitPull{
 	// second branch commit
     String name="praveen";
     int var=10;
+    System.out.println("Pull commited form Collabarator");
+
     System.out.println("Pull commited");
   }
 }
