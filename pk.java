@@ -4,6 +4,7 @@ public class gitPull{
     // Loaded in git branch
 	// second branch commit
     String name="praveen";
+    int var=10;
     System.out.println("Pull commited");
   }
 }
